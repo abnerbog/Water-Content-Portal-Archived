@@ -192,7 +192,7 @@ A series of videos were created to describe this protocol, which can be found he
 
         i. Acidify on the day of collection; it is fine to acidify in batch all of the samples collected at the end of the field day.
 
-ii. 
+ii. ![Acidifying AIMS cations](Images/acidifying_AIMS_cations.png)
 
 iii. Hold time is \~2-3 months
 
