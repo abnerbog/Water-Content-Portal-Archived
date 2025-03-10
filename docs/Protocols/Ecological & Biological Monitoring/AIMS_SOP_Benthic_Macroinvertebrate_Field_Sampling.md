@@ -10,7 +10,7 @@ Intermittency effects on Microbiomes in Streams (AIMS), an NSF EPSCoR funded pro
 
 2019603) seeking to explore the impacts of stream drying on downstream water quality across Kansas, Oklahoma, Alabama, Idaho, and Mississippi. AIMS integrates datasets on hydrology, microbiomes, macroinvertebrates, and biogeochemistry in three regions (Mountain West, Great Plains, and Southeast Forests) to test the overarching hypothesis that physical drivers (e.g., climate, hydrology) interact with biological drivers (e.g., microbes, biogeochemistry) to control water quality in intermittent streams. An overview of the AIMS project can be found here:
 
-<https://youtu.be/HDKIBNEnwdM>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HDKIBNEnwdM?si=dviN8DJrRRC1ke6-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This protocol will detail the process for collecting and storing benthic macroinvertebrates collected at AIMS sites. Benthic macroinvertebrates will be collected during regular sensor maintenance (Approach 1), during seasonal synoptics (Approach 2), and during the synoptic sampling (Approach 3).
 
