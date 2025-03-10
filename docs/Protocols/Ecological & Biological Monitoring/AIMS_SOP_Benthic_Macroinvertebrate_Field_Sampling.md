@@ -4,11 +4,7 @@
 
 # 1.0 Abstract
 
-The following standard operating procedure (SOP) was created for the the Aquatic
-
-Intermittency effects on Microbiomes in Streams (AIMS), an NSF EPSCoR funded project (OIA
-
-2019603) seeking to explore the impacts of stream drying on downstream water quality across Kansas, Oklahoma, Alabama, Idaho, and Mississippi. AIMS integrates datasets on hydrology, microbiomes, macroinvertebrates, and biogeochemistry in three regions (Mountain West, Great Plains, and Southeast Forests) to test the overarching hypothesis that physical drivers (e.g., climate, hydrology) interact with biological drivers (e.g., microbes, biogeochemistry) to control water quality in intermittent streams. An overview of the AIMS project can be found here:
+The following standard operating procedure (SOP) was created for the the Aquatic Intermittency effects on Microbiomes in Streams (AIMS), an NSF EPSCoR funded project (OIA 2019603) seeking to explore the impacts of stream drying on downstream water quality across Kansas, Oklahoma, Alabama, Idaho, and Mississippi. AIMS integrates datasets on hydrology, microbiomes, macroinvertebrates, and biogeochemistry in three regions (Mountain West, Great Plains, and Southeast Forests) to test the overarching hypothesis that physical drivers (e.g., climate, hydrology) interact with biological drivers (e.g., microbes, biogeochemistry) to control water quality in intermittent streams. An overview of the AIMS project can be found here:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HDKIBNEnwdM?si=dviN8DJrRRC1ke6-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
