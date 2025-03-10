@@ -93,7 +93,7 @@ From this SOP, the following data types will be created: Macroinvertebrate DNA s
 1.  At each site, delineate a 100-m stream reach using a measuring tape. The midpoint of the reach (50 m) should be where the STIC sensor (during Approach 2 and 3) or the super sensor is (if sampling during sensor maintenance visits; Approach 1).
 2.  Starting at the downstream end, work upstream starting at 0 m, 20 m, 40 m, 60 m, 80 m, and then 100 m. Collect a single sub-sample or “kick” at each point along the transect using the surber sampler (described below). As you work upstream, alternate collecting the sample on the left (0 and 60 m), center (40 and 80 m), and right (60 and 100 m) side of the channel; provided that the channel is wide enough. If the channel is narrow, just sample in the center. If there is no water to sample at that position, do not attempt to sample and mark it as “dry” on the data sheet.
 
-    ![](media/1ca27f34625b8f521452360b076dbd40.jpg)
+    ![AIMS_Benthic_Macroinvertebrate_Sampling_Schematic](Images/AIMS_benthic_macroinvertebrate_sampling_schematic.png)
 
 3.  There are two sampling gears used for sampling macroinvertebrates: either a
 
