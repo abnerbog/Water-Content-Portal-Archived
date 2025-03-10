@@ -1,0 +1,37 @@
+site_name: CUAHSI Water Content Portal
+repo_name: Water-Content-Portal
+repo_url: https://github.com/CUAHSI/Water-Content-Portal
+edit_uri: blob/main/docs/
+
+theme:
+  name: "material"
+  features:
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - navigation.footer
+    - toc.integrate
+  icon:
+    edit: material/pencil
+    view: material/eye
+  palette:
+    - scheme: default
+      toggle:
+          icon: material/brightness-7
+          name: Switch to dark mode
+    - scheme: slate
+      toggle:
+          icon: material/brightness-4
+          name: Switch to light mode
+
+plugins:
+  - search
+
+markdown_extensions:
+  - tables
+
+nav:
+  - Home: index.md
+  - "Protocols":
+    - "Surface Water Quality": 
+      - "Surface Water Chemistry Field Sampling": Protocols/Surface Water Quality/AIMS_SOP_Surface_Water_Chemistry_Field_Sampling.md
