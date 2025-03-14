@@ -25,6 +25,9 @@ theme:
 
 plugins:
   - search
+  - git-revision-date-localized:
+      locale: en
+      type: datetime  
 
 markdown_extensions:
   - tables
