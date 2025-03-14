@@ -10,7 +10,6 @@ theme:
     - search.highlight
     - content.action.edit
     - navigation.footer
-    - toc.integrate
   icon:
     edit: material/pencil
     view: material/eye
